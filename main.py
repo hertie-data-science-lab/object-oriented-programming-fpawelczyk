@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Feb 12 18:05:41 2023
-
-@author: Hannah
+@author: Fabian Pawelczyk
 """
 
 from River import River
