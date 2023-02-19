@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Feb 12 18:02:49 2023
-
-@author: Fabian Pawelczyk
+Date: Feb 19th 2023
+@author: Juan Pablo Brasdefer (juanbrasdefer) Fabian Pawelczyk (fpawelczyk)
 """
 import numpy as np
 from abc import ABCMeta, abstractmethod

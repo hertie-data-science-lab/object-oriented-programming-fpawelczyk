@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-@author: Fabian Pawelczyk
+Date: Feb 19th 2023
+@author: Juan Pablo Brasdefer (juanbrasdefer) Fabian Pawelczyk (fpawelczyk)
 """
 
 from River import River

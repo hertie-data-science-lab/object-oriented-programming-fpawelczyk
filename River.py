@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Date: Feb 19th 2023
-@author: Fabian Pawelczyk
+@author: Juan Pablo Brasdefer (juanbrasdefer) Fabian Pawelczyk (fpawelczyk)
 """
 import numpy as np
 from Creatures import Bear
